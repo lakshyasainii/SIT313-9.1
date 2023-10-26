@@ -1,0 +1,42 @@
+.signupheader {
+    text-align: center;
+    padding: 20px;
+    background-color: #f0f0f0;
+    color: #007bff;
+    display: block;
+    border: 2px;
+    border-radius: 10px;
+    width: 50%;
+    margin-left: 25%;
+  }
+  
+  .Emailheader{
+      text-align: left;
+      color: black;
+      margin-left: 95px;
+  }
+  
+  .Link{
+    margin-left: 80%;
+    color: #007bff;
+  }
+  
+  input[type="email"],
+  input[type="password"] {
+    width: 70%;
+    padding: 8px;
+    margin: 10px ;
+    border: 1px solid #ba5959;
+    border-radius: 4px;
+  }
+  
+  .loginheader {
+    width: 20%; 
+    background-color: blue;
+    color: rgb(14, 1, 1);
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-left: 0%;
+}
